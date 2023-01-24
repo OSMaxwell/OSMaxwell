@@ -1,5 +1,9 @@
 
-<img align="right" height="380" alt="Shimarin" src="https://i.imgur.com/6G2ZkvA.png"/>
+
+<p class="aligncenter">
+    <img align=right alt="CP" src="https://i.giphy.com/media/SUcnmocyRKkfSil9xd/giphy.webp"/>
+</p>
+
 
 <h2> About me : </h2>
   
