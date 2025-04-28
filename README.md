@@ -7,7 +7,7 @@
 
 <h2> About me : </h2>
   
-- Studying Computer Engineering at TU Berlin
+- Computer Engineering at TU Berlin
 - Working at Siemens AG
   
 <h2> Skills </h2>
